@@ -10,3 +10,7 @@
 	path = meta-raspberrypi
 	url = git://git.yoctoproject.org/meta-raspberrypi
 	branch = warrior
+[submodule "meta-shairport-sync"]
+	path = meta-shairport-sync
+	url = https://github.com/Youx/meta-shairport-sync.git
+	branch = warrior
