@@ -2,3 +2,7 @@
 	path = poky
 	url = git://git.yoctoproject.org/poky.git
 	branch = warrior
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = warrior
